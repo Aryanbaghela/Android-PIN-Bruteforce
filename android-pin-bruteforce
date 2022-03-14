@@ -11,7 +11,8 @@
 # Load Default Configuration
 source config.default
 # Load Configuration
-source config
+source config mi 7A
+
 
 VERSION=0.1
 
